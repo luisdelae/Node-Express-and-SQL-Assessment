@@ -1,0 +1,27 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisdelae/Node-Express-and-SQL-Assessment.git"
+  },
+  "author": "Luis De La Espriella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisdelae/Node-Express-and-SQL-Assessment/issues"
+  },
+  "homepage": "https://github.com/luisdelae/Node-Express-and-SQL-Assessment#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jquery": "^2.2.0",
+    "path": "^0.12.7",
+    "pg": "^4.4.6"
+  }
+}
